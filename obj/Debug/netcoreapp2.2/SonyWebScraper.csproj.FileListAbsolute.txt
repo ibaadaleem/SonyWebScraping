@@ -1,0 +1,11 @@
+C:\Users\Ibaad\Documents\C#\SonyWebScraper\obj\Debug\netcoreapp2.2\SonyWebScraper.csprojAssemblyReference.cache
+C:\Users\Ibaad\Documents\C#\SonyWebScraper\obj\Debug\netcoreapp2.2\SonyWebScraper.csproj.CoreCompileInputs.cache
+C:\Users\Ibaad\Documents\C#\SonyWebScraper\obj\Debug\netcoreapp2.2\SonyWebScraper.AssemblyInfoInputs.cache
+C:\Users\Ibaad\Documents\C#\SonyWebScraper\obj\Debug\netcoreapp2.2\SonyWebScraper.AssemblyInfo.cs
+C:\Users\Ibaad\Documents\C#\SonyWebScraper\bin\Debug\netcoreapp2.2\SonyWebScraper.deps.json
+C:\Users\Ibaad\Documents\C#\SonyWebScraper\bin\Debug\netcoreapp2.2\SonyWebScraper.runtimeconfig.json
+C:\Users\Ibaad\Documents\C#\SonyWebScraper\bin\Debug\netcoreapp2.2\SonyWebScraper.runtimeconfig.dev.json
+C:\Users\Ibaad\Documents\C#\SonyWebScraper\bin\Debug\netcoreapp2.2\SonyWebScraper.dll
+C:\Users\Ibaad\Documents\C#\SonyWebScraper\bin\Debug\netcoreapp2.2\SonyWebScraper.pdb
+C:\Users\Ibaad\Documents\C#\SonyWebScraper\obj\Debug\netcoreapp2.2\SonyWebScraper.dll
+C:\Users\Ibaad\Documents\C#\SonyWebScraper\obj\Debug\netcoreapp2.2\SonyWebScraper.pdb
